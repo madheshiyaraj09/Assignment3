@@ -1,0 +1,54 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body,html{
+     font-family: Roboto,sans-serif,arial;
+     background-color:rgb(150, 139, 103);
+}
+#name{
+    background-color:rgb(173, 160, 81);
+    color:aqua;
+}
+img{
+    border-radius:10px;
+}
+#na1{
+    padding:10px;
+    
+}
+#name2{
+    padding:1px 2px 3px 4px;
+}
+marquee{
+    color:rgb(136, 21, 21);
+    background-color:rgb(131, 121, 65)
+}
+a{
+    color:rgb(49, 10, 10);
+    text-decoration:none;
+}
+.block{
+    display:inline-block;
+    padding:5px;
+    margin-left:15px;
+    border:0.5px solid rgb(131,121,65);
+    box-shadow:1px 1px 1px 1px rgb(131,121,65);
+}
+ul{
+    list-style:none;
+    box-shadow:2px 2px 2px black;
+
+
+
+}
+#na2{
+    text-align:center;
+}
+#mar{
+    color:rgb(31, 30, 30)
+}
+
+#home2{
+   opacity:75%;
+}

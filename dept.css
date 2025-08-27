@@ -1,0 +1,34 @@
+
+*{
+    background-color: rgb(141, 123, 141);
+}
+.dept{
+  width:300px;
+  height:450px;
+  border:2px solid black;
+  border-radius:10px;
+  box-shadow:5px 5px 10px rgb(82, 18, 18);
+  display:inline-block;
+  margin:150px;
+}
+
+#name1{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+
+.dept2{
+    width:300px;
+  height:450px;
+  border:2px solid black;
+  border-radius:10px;
+  box-shadow:5px 5px 10px rgb(82, 18, 18);
+  display:inline-block;
+  margin-inline:150px;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
